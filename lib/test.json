@@ -1,0 +1,28 @@
+{
+    "id": "af7c1fe6-d669-414e-b066-e9733f0de7a8",
+    "name": "Json",
+    "age": 1,
+    "height": null,
+    "location": {
+        "latitude": 33.41665360988528,
+        "longitude": 44.34937069876298
+    },
+    "grades": [
+        8,
+        10,
+        12
+    ],
+    "supportedBy": [
+        {
+            "swagger":""
+        }
+    ],
+    "components": [
+        "item",
+        1,
+        1.0,
+        null,
+        true,
+        null
+    ]
+}
